@@ -88,7 +88,6 @@ Root Patching requires a network connection by default to grab associated resour
 * Intel:
   * Iron Lake
   * Sandy Bridge (2000 - 3000 series)
-  * Ivy Bridge (4000 series)
 
 :::
 
